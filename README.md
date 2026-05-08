@@ -1,5 +1,7 @@
 # PCA / Análise Fatorial — Indicador Sintético para Imóveis
 
+## Mais detalhes em: https://samantads.com/2026/05/08/exemplos-de-utilizacao-de-pca-explicado/
+
 ## Objetivo do projeto
 
 Este projeto tem como objetivo criar um **indicador sintético para critério de preço de imóveis**, utilizando **PCA** / **Análise Fatorial**.
