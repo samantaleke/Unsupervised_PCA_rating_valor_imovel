@@ -1,6 +1,9 @@
 # PCA / Análise Fatorial — Indicador Sintético para Imóveis
 
-## Mais detalhes em: https://samantads.com/2026/05/08/exemplos-de-utilizacao-de-pca-explicado/
+> Este projeto faz parte do portfólio de estudos em **Aprendizado Não Supervisionado**:  
+> [Unsupervised Machine Learning](https://github.com/samantaleke/Unsupervised_machine_learning)
+
+> Mais detalhes em: https://samantads.com/2026/05/08/exemplos-de-utilizacao-de-pca-explicado/
 
 ## Objetivo do projeto
 
